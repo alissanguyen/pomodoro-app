@@ -1,6 +1,8 @@
 # Pomodoro Timer
 
+URL https://pomodoro.alissanguyen.dev
 
+A pomodoro timer built with simple HTML, JS and SCSS.
 
 ## What to expect
 There are 3 modes timers that you can choose from, pomodoro , short break and long mode.
